@@ -3,7 +3,7 @@
 This project involves the analysis of heart attack risk using machine learning models, with a focus on explainability through XAI (Explainable Artificial Intelligence) techniques. The project evaluates and compares several machine learning models to achieve high accuracy in predicting heart attack risk, with detailed explanations of feature contributions to the model’s predictions.
 
 ## Project Overview
-**Duration:** April 2024 - juin 2024
+**Duration:** April 2024 - june 2024
 
 **Objective:**  
 To predict heart attack risk with high accuracy and provide interpretable explanations for the predictions using XAI techniques.
